@@ -33,6 +33,8 @@
     "@remix-run/react": "^1.6.8",
     "@supabase/supabase-js": "^1.31.1",
     "@testing-library/cypress": "^8.0.3",
+    "@typeform/embed": "^2.0.1",
+    "@typeform/embed-react": "^2.1.0",
     "bcryptjs": "^2.4.3",
     "cypress": "^10.4.0",
     "react": "^17.0.2",
